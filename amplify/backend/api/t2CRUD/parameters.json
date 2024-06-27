@@ -1,0 +1,5 @@
+{
+  "AppSyncApiName": "t2CRUD",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false
+}

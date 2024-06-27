@@ -1,0 +1,15 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-t2crud-staging-f2cab-authRole",
+      "UnauthRoleArn": "arn:aws:iam::058264297804:role/amplify-t2crud-staging-f2cab-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::058264297804:role/amplify-t2crud-staging-f2cab-authRole",
+      "Region": "ap-southeast-2",
+      "DeploymentBucketName": "amplify-t2crud-staging-f2cab-deployment",
+      "UnauthRoleName": "amplify-t2crud-staging-f2cab-unauthRole",
+      "StackName": "amplify-t2crud-staging-f2cab",
+      "StackId": "arn:aws:cloudformation:ap-southeast-2:058264297804:stack/amplify-t2crud-staging-f2cab/e3389e40-3291-11ef-b4a7-0a432a20f929",
+      "AmplifyAppId": "di57d6hm9n3bm"
+    }
+  }
+}

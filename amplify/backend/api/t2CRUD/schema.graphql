@@ -1,0 +1,4 @@
+type PatModel @model @auth(rules: [{allow: public}]) {
+  id: ID!
+  data: String!
+}
